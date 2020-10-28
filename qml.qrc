@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Settings.qml</file>
+        <file>WindowITT.qml</file>
+        <file>WindowN1.qml</file>
+        <file>pics/andazeh.png</file>
+        <file>pics/alaki.png</file>
+        <file>pics/ittBG.png</file>
+        <file>pics/n1BG.png</file>
+        <file>pics/n1BugBlue.png</file>
+        <file>pics/n1BugBlue2.png</file>
+        <file>pics/Slider1Red.png</file>
+        <file>pics/Slider1White.png</file>
+        <file>pics/Slider1Yellow.png</file>
+        <file>pics/Slider2Red.png</file>
+        <file>pics/Slider2White.png</file>
+        <file>pics/Slider2Yellow.png</file>
+        <file>pics/SliderTail1Red.png</file>
+        <file>pics/SliderTail1White.png</file>
+        <file>pics/SliderTail1Yellow.png</file>
+        <file>pics/SliderTail2Red.png</file>
+        <file>pics/SliderTail2White.png</file>
+        <file>pics/SliderTail2Yellow.png</file>
+        <file>WindowGoogle.qml</file>
+        <file>pics/1.avi</file>
+        <file>qmldir</file>
+    </qresource>
+</RCC>
