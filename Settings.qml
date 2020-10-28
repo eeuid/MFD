@@ -30,7 +30,7 @@ QtObject
     property double myScaleY: myScaleYY
     property double myScale: Math.min(Settings.myScaleX,Settings.myScaleY)
 
-    property int thicknessFont: 70;
+    property int thicknessFont: 170;
     property int thicknessBorder: 2
     property int thicknessNeighbour: 15
 
